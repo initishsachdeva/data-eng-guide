@@ -1,0 +1,16 @@
+day,city,temp,windspeed,event
+12-02-24,new york,23,6,rain
+13-02-24,new york,24,7,sunny
+14-02-24,new york,25,8,rainy
+15-02-24,new york,26,9,rain
+16-02-24,new york,27,10,rain
+17-02-24,mumbai,28,11,sunny
+18-02-24,mumbai,29,12,rainy
+19-02-24,mumbai,30,13,snow
+20-02-24,mumbai,31,14,snow
+21-02-24,mumbai,32,15,rain
+22-02-24,mumbai,33,16,sunny
+23-02-24,paris,34,17,rainy
+24-02-24,paris,34,17,rainy
+25-02-24,paris,34,17,rainy
+26-02-24,paris,34,17,rainy
