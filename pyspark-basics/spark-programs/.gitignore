@@ -9,3 +9,5 @@
 *.crc
 *.parquet
 */*/_SUCCESS
+spark-programs/06_Spark_Sql_Demo/derby.log
+spark-programs/06_Spark_Sql_Demo/metastore_db/*
